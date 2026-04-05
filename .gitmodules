@@ -1,4 +1,0 @@
-[submodule "KernelSU"]
-	path = KernelSU
-	branch = main
-	url = https://github.com/rsuntk/KernelSU
